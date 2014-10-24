@@ -1,0 +1,15 @@
+.navbar .navbar-brand img {
+  height: 70px;
+  margin: -25px 10px -10px 0;
+  border: 0;
+  padding: 0;
+  vertical-align: top;
+}
+
+
+footer{ padding-bottom: 40px; }
+.navbar{min-height: 80px;}
+.navbar.scroll .nav.navbar-nav > li > a{ padding-top:30px; padding-bottom: 30px;}
+.navbar.scroll .nav.navbar-nav > li > a:hover { padding-top: 45px;  padding-bottom: 15px; }
+.navbar .navbar-brand{ padding-top:30px !important; padding-bottom:30px !important;}
+.navbar.scroll .navbar-brand img{ height: 70px; margin: -25px 10px -10px 0; border: 0; padding: 0; vertical-align: top; }
